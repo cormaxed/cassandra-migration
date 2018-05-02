@@ -25,7 +25,7 @@ ccm create test -v 3.11.2 -n 3
 ccm start
 ```
 
-## Install the cassandra-migration tool
+## Install the cassandra-migrate tool
 
 ```
 pip install cassandra-migrate
